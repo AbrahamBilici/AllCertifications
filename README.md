@@ -29,4 +29,3 @@ I have obtained seven programming language certifications through FreeCodeCamp. 
 - [Click here to view certification](https://www.freecodecamp.org/certification/AbrahamBilici/quality-assurance-v7) 
 - [Click here to explore certification projects](https://abrahambilici.github.io/QualityAssuranceCertification/)
 
-### I also invite you to read my article on LinkedIn , [click here to view article](https://www.linkedin.com/pulse/passionate-journey-growth-adaptability-my-path-success-bilici%3FtrackingId=kbza%252BJbJTwm3iYboIVRbvQ%253D%253D/?trackingId=kbza%2BJbJTwm3iYboIVRbvQ%3D%3D)
